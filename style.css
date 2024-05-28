@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.part1{
+    display: flex;
+    background-color: rgb(15, 75, 10);
+    height: 500px;
+    border-radius: 10px;
+}
+.part1 .img img{
+    margin-top: 40px;
+    margin-left: 150px;
+    border-radius: 50%; 
+}
+.part1 .name{
+    margin-left: 180px;
+    margin-top: 150px;
+    color: rgb(226, 217, 217);
+}
+
+.part2 h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.part2 span{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 5px 80px;
+}
+
+.part2  img{
+    margin-left: 750px;
+    border-radius: 5px;
+    
+}
+.but{
+    margin-left: 220px;
+    margin-top: -55px;
+    
+}
+.but a{
+    text-decoration: none;
+    
+}
+.but button{
+    font-size: medium;
+    padding: 15px 95px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.but button:hover{
+    background-color: black;
+    color: white;
+}
+.part3 h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+.pro1{
+    background-color: white;
+    
+}
+.pro1:hover{
+    background-color:rgb(229, 33, 82);
+    color: white;
+    border-radius: 10px;
+}
+.part3 .pro1 h1{
+    display: flex;
+    margin-top: 45px;
+    margin-left: -300px;
+    font-size: 25px;
+    padding: 55px 20px;
+}
+.part3 .pro1 img{
+    border-radius: 50%;
+    margin-left: 1220px;
+    margin-top: -105px;
+}
+.part3 .fbut button{
+    margin-left: 200px;
+    font-size: medium;
+    padding: 15px 95px;
+    border-radius: 10px;
+    text-align: center;
+}
+.fbut a{
+    text-decoration: none;
+}
+.fbut button:hover{
+    background-color: black;
+    color: white;
+}
+
+.pro2{
+    background-color: white
+}
+.pro2:hover{
+    background-color:rgb(61, 116, 183);
+    color: white;
+    border-radius: 10px;
+}
+.part3 .pro2 h1{
+    display: flex;
+    margin-top: -200px;
+    margin-left: 300px;
+    font-size: 25px;
+    padding: 55px 70px;
+}
+.part3 .pro2 img{
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.part3 .gbut button{
+    margin-left: 350px;
+    margin-top: 80px;
+    font-size: medium;
+    padding: 15px 95px;
+    border-radius: 10px;
+    text-align: center;
+}
+.gbut a{
+    text-decoration: none;
+}
+.gbut button:hover{
+    background-color: black;
+    color: white;
+}
+
+
+.pro3{
+    background-color: white
+}
+.pro3:hover{
+    background-color:rgb(69, 36, 123);
+    color: white;
+    border-radius: 10px;
+}
+.part3 .pro3 h1{
+    display: flex;
+    margin-top: 45px;
+    margin-left: -300px;
+    font-size: 25px;
+    padding: 55px 20px;
+}
+.part3 .pro3 img{
+    border-radius: 50%;
+    margin-left: 1220px;
+    margin-top: -105px;
+}
+.part3 .kbut button{
+    margin-left: 200px;
+    font-size: medium;
+    padding: 15px 95px;
+    border-radius: 10px;
+    text-align: center;
+}
+.kbut a{
+    text-decoration: none;
+}
+.kbut button:hover{
+    background-color: black;
+    color: white;
+}
+
+
+.pro4{
+    background-color: white
+}
+.pro4:hover{
+    background-color:rgb(217, 51, 51);
+    color: white;
+    border-radius: 10px;
+}
+.part3 .pro4 h1{
+    display: flex;
+    margin-top: -200px;
+    margin-left: 300px;
+    font-size: 25px;
+    padding: 55px 70px;
+}
+.part3 .pro4 img{
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.part3 .abut button{
+    margin-left: 350px;
+    margin-top: 80px;
+    font-size: medium;
+    padding: 15px 95px;
+    border-radius: 10px;
+    text-align: center;
+}
+.abut a{
+    text-decoration: none;
+}
+.abut button:hover{
+    background-color: black;
+    color: white;
+}
+
+.last{
+    margin-top: 30px;
+    margin-left: 50px;
+    justify-content: center;
+    display: flex;
+}
+.last span{
+    font-size: 20px;
+}
+.last a img{
+    background-color: cornsilk;
+    border-radius: 50%;
+    margin-bottom: -1%;
+ 
+}
