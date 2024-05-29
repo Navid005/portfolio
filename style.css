@@ -23,7 +23,7 @@ body{
     color: rgb(226, 217, 217);
 }
 
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 340px){
     .img img{
         width: 250px;
         height: 250px;
@@ -79,7 +79,7 @@ body{
     color: white;
 }
 
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 340px){
     .part2 h1{
         position: absolute;
         left: 80px;
@@ -150,7 +150,7 @@ body{
     background-color: black;
     color: white;
 }
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 340px){
     .part3 h1{
         position: absolute;
         left: 80px;
@@ -218,7 +218,7 @@ body{
     background-color: black;
     color: white;
 }
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 340px){
     .part3 .pro2 h1{
         position: absolute;
         font-size: medium;
@@ -279,7 +279,7 @@ body{
     background-color: black;
     color: white;
 }
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 340px){
     .part3 .pro3 h1{
         position: absolute;
         font-size: medium;
@@ -341,7 +341,7 @@ body{
     background-color: black;
     color: white;
 }
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 340px){
     .part3 .pro4 h1{
         position: absolute;
         font-size: medium;
@@ -384,7 +384,7 @@ body{
     margin-bottom: -1%;
  
 }
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 340px){
     .last span{
         font-size: small;
         position: absolute;
